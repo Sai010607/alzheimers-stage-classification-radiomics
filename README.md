@@ -27,15 +27,15 @@ The framework classifies subjects into five stages:
 ## Workflow
 
 Radiomic Features (56)
-           ↓
+           ->
 Data Preprocessing
-           ↓
+           ->
 Random Forest
-           ↓
+            ->
 XGBoost
-           ↓
+           ->
 5-Class Classification
-           ↓
+           ->
 Performance Evaluation
 
 ## Results
